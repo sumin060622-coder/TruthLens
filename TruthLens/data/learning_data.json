@@ -1,0 +1,116 @@
+[
+    {
+        "post": "트럼프가 10월 29일 한국을 방문했다",
+        "GPT_label": "GPT 오류",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "post": "트럼프가 10월 29일 한국을 방문했다",
+        "GPT_label": "이 내용은 허위입니다. 확인 결과, 도널드 트럼프가 해당 날짜에 한국을 방문한 기록은 없습니다.",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "post": "National Intelligence Service (NIS)에 따르면, 중국계 기업들이 한국 내에서 가짜 뉴스 웹사이트 38개를 운영하며 한국어 뉴스 매체로 위장해 여론을 조작했다는 보도입니다",
+        "GPT_label": "허위",
+        "suspicious": true,
+        "keywords": [
+            "조작"
+        ],
+        "sentiment": 0.0
+    },
+    {
+        "post": "로이터(Reuters)의 보도: 한국 의회가 약 31.8조원(미화 약 233억 달러) 규모의 추가경정예산을 승인했다는 뉴스입니다.",
+        "GPT_label": "중립",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "post": "서울의 랜드마크는 만리장성이다",
+        "GPT_label": "허위",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "post": "넌 병신이다",
+        "GPT_label": "중립",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "post": "서울의 랜드마크는 만리장성이다",
+        "GPT_label": "허위",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "post": "중국의 랜드마크는 남산타워다\n",
+        "GPT_label": "허위 정보입니다. 중국의 랜드마크는 남산타워가 아니며, 남산타워는 한국 서울에 위치해 있습니다. 중국에는 여러 유명한 랜드마크가 있으며, 대표적인 예로는 만리장성, 천안문 광장, 상하이의 동방명주탑 등이 있습니다.",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "post": "조선대학교는 광주에 위치해있다",
+        "GPT_label": "중립",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "post": "조선대학교는 광주에  위치한가?",
+        "GPT_label": "중립",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "post": "조선대학교는 중국 상하이에 위치해있다",
+        "GPT_label": "허위",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "post": "중국의 랜드마크는 남산타워이다",
+        "GPT_label": "허위",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "post": "중국의 랜드마크는 남산타워",
+        "GPT_label": "허위",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "post": "중국의 수도는 서울이다",
+        "GPT_label": "허위",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "post": "애사비는 체중감량 효과가 있다고 알려졌다\n",
+        "GPT_label": "허위",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    },
+    {
+        "post": "애사비는 체중감량 효과가 있다고 알려졌다\n",
+        "GPT_label": "과장",
+        "suspicious": false,
+        "keywords": [],
+        "sentiment": 0.0
+    }
+]
